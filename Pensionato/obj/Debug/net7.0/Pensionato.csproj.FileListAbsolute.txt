@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/Pensionato/bin/Debug/net7.0/Pensionato
+/Users/macbookpro/Projects/Pensionato/bin/Debug/net7.0/Pensionato.deps.json
+/Users/macbookpro/Projects/Pensionato/bin/Debug/net7.0/Pensionato.runtimeconfig.json
+/Users/macbookpro/Projects/Pensionato/bin/Debug/net7.0/Pensionato.dll
+/Users/macbookpro/Projects/Pensionato/bin/Debug/net7.0/Pensionato.pdb
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.AssemblyInfo.cs
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.dll
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/refint/Pensionato.dll
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.pdb
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/Pensionato.genruntimeconfig.cache
+/Users/macbookpro/Projects/Pensionato/obj/Debug/net7.0/ref/Pensionato.dll

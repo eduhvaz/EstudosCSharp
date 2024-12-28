@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/AulasTestes/bin/Debug/net7.0/AulasTestes
+/Users/macbookpro/Projects/AulasTestes/bin/Debug/net7.0/AulasTestes.deps.json
+/Users/macbookpro/Projects/AulasTestes/bin/Debug/net7.0/AulasTestes.runtimeconfig.json
+/Users/macbookpro/Projects/AulasTestes/bin/Debug/net7.0/AulasTestes.dll
+/Users/macbookpro/Projects/AulasTestes/bin/Debug/net7.0/AulasTestes.pdb
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.AssemblyInfo.cs
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.dll
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/refint/AulasTestes.dll
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.pdb
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/AulasTestes.genruntimeconfig.cache
+/Users/macbookpro/Projects/AulasTestes/obj/Debug/net7.0/ref/AulasTestes.dll

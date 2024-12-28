@@ -1,0 +1,14 @@
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/bin/Debug/net8.0/Exercicio1if_else
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/bin/Debug/net8.0/Exercicio1if_else.deps.json
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/bin/Debug/net8.0/Exercicio1if_else.runtimeconfig.json
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/bin/Debug/net8.0/Exercicio1if_else.dll
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/bin/Debug/net8.0/Exercicio1if_else.pdb
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.AssemblyInfo.cs
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.dll
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/refint/Exercicio1if_else.dll
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.pdb
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/Exercicio1if_else.genruntimeconfig.cache
+/Users/macbookpro/Desktop/estudosC#/Exercicio1if_else/obj/Debug/net8.0/ref/Exercicio1if_else.dll

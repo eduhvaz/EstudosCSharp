@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/enumeração/bin/Debug/net7.0/enumeração
+/Users/macbookpro/Projects/enumeração/bin/Debug/net7.0/enumeração.deps.json
+/Users/macbookpro/Projects/enumeração/bin/Debug/net7.0/enumeração.runtimeconfig.json
+/Users/macbookpro/Projects/enumeração/bin/Debug/net7.0/enumeração.dll
+/Users/macbookpro/Projects/enumeração/bin/Debug/net7.0/enumeração.pdb
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.AssemblyInfo.cs
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.dll
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/refint/enumeração.dll
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.pdb
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/enumeração.genruntimeconfig.cache
+/Users/macbookpro/Projects/enumeração/obj/Debug/net7.0/ref/enumeração.dll

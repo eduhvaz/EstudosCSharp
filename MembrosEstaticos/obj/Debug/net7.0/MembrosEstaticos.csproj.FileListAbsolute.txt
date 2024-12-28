@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/MembrosEstaticos/bin/Debug/net7.0/MembrosEstaticos
+/Users/macbookpro/Projects/MembrosEstaticos/bin/Debug/net7.0/MembrosEstaticos.deps.json
+/Users/macbookpro/Projects/MembrosEstaticos/bin/Debug/net7.0/MembrosEstaticos.runtimeconfig.json
+/Users/macbookpro/Projects/MembrosEstaticos/bin/Debug/net7.0/MembrosEstaticos.dll
+/Users/macbookpro/Projects/MembrosEstaticos/bin/Debug/net7.0/MembrosEstaticos.pdb
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.AssemblyInfo.cs
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.dll
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/refint/MembrosEstaticos.dll
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.pdb
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/MembrosEstaticos.genruntimeconfig.cache
+/Users/macbookpro/Projects/MembrosEstaticos/obj/Debug/net7.0/ref/MembrosEstaticos.dll

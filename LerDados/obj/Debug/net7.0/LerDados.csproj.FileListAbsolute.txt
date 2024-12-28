@@ -1,0 +1,15 @@
+/Users/macbookpro/Desktop/estudosC#/LerDados/bin/Debug/net7.0/LerDados
+/Users/macbookpro/Desktop/estudosC#/LerDados/bin/Debug/net7.0/LerDados.deps.json
+/Users/macbookpro/Desktop/estudosC#/LerDados/bin/Debug/net7.0/LerDados.runtimeconfig.json
+/Users/macbookpro/Desktop/estudosC#/LerDados/bin/Debug/net7.0/LerDados.dll
+/Users/macbookpro/Desktop/estudosC#/LerDados/bin/Debug/net7.0/LerDados.pdb
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.csproj.AssemblyReference.cache
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.AssemblyInfo.cs
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.dll
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/refint/LerDados.dll
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.pdb
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/LerDados.genruntimeconfig.cache
+/Users/macbookpro/Desktop/estudosC#/LerDados/obj/Debug/net7.0/ref/LerDados.dll

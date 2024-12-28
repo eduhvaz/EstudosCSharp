@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/Matrix/bin/Debug/net7.0/Matrix
+/Users/macbookpro/Projects/Matrix/bin/Debug/net7.0/Matrix.deps.json
+/Users/macbookpro/Projects/Matrix/bin/Debug/net7.0/Matrix.runtimeconfig.json
+/Users/macbookpro/Projects/Matrix/bin/Debug/net7.0/Matrix.dll
+/Users/macbookpro/Projects/Matrix/bin/Debug/net7.0/Matrix.pdb
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.AssemblyInfo.cs
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.dll
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/refint/Matrix.dll
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.pdb
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/Matrix.genruntimeconfig.cache
+/Users/macbookpro/Projects/Matrix/obj/Debug/net7.0/ref/Matrix.dll

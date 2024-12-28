@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/ExercList/bin/Debug/net7.0/ExercList
+/Users/macbookpro/Projects/ExercList/bin/Debug/net7.0/ExercList.deps.json
+/Users/macbookpro/Projects/ExercList/bin/Debug/net7.0/ExercList.runtimeconfig.json
+/Users/macbookpro/Projects/ExercList/bin/Debug/net7.0/ExercList.dll
+/Users/macbookpro/Projects/ExercList/bin/Debug/net7.0/ExercList.pdb
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.AssemblyInfo.cs
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.dll
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/refint/ExercList.dll
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.pdb
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ExercList.genruntimeconfig.cache
+/Users/macbookpro/Projects/ExercList/obj/Debug/net7.0/ref/ExercList.dll

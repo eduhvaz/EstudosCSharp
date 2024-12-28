@@ -1,0 +1,14 @@
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.AssemblyInfoInputs.cache
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.AssemblyInfo.cs
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/bin/Debug/net7.0/Classes1
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/bin/Debug/net7.0/Classes1.deps.json
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/bin/Debug/net7.0/Classes1.runtimeconfig.json
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/bin/Debug/net7.0/Classes1.dll
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/bin/Debug/net7.0/Classes1.pdb
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.dll
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/refint/Classes1.dll
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.pdb
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/Classes1.genruntimeconfig.cache
+/Users/macbookpro/Desktop/estudosC#/Classes1/Classes1/obj/Debug/net7.0/ref/Classes1.dll
