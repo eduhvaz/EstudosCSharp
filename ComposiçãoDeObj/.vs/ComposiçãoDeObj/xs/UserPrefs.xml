@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{CD2246CC-0F2D-4E1E-B1C7-32D4A0644E7C}|Default">
+  <MonoDevelop.Ide.ItemProperties.ComposiçãoDeObj FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Worker.cs">
+    <Files>
+      <File FileName="Program.cs" Line="2" Column="26" />
+      <File FileName="Entities/Worker.cs" Line="28" Column="1" />
+      <File FileName="Entities/Department.cs" Line="6" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComposiçãoDeObj" expanded="True">
+            <Node name="ComposiçãoDeObj">
+              <Node name="Entities">
+                <Node name="Enum" expanded="True" />
+                <Node name="Worker.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
