@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics.Contracts;
 using ComposiçãoDeObj.Entities.Enums;
 namespace ComposiçãoDeObj.Entities
 {
@@ -11,7 +12,7 @@ namespace ComposiçãoDeObj.Entities
         public Department department { get; set; }
         public List<HourContract> Contract { get; set; } = new List<HourContract>();
 
-        public Worker(){}
+        public Worker() { }
 
         public Worker(string name, WorkerLevel level, double basSalary, Department department)
         {
@@ -21,7 +22,7 @@ namespace ComposiçãoDeObj.Entities
             this.department = department;
         }
 
-        public void addContract(HourContract contract )
+        public void addContract(HourContract contract)
         {
             Contract.Add(contract);
         }
@@ -36,13 +37,14 @@ namespace ComposiçãoDeObj.Entities
             double sum = BaseSalary;
             foreach (HourContract contract in Contract)
             {
-                if (contract.date.Year == year && contract.date.Month == month)
+                if (contract.Date.Year == year && contract.Date.Month == month)
                 {
                     sum += contract.TotalValue();
                 }
-            return sum;
             }
+            return sum;
         }
     }
 }
+
 

@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.AssemblyInfo.cs
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/ComposiçãoDeObj/bin/Debug/net7.0/ComposiçãoDeObj
+/Users/macbookpro/Projects/ComposiçãoDeObj/bin/Debug/net7.0/ComposiçãoDeObj.deps.json
+/Users/macbookpro/Projects/ComposiçãoDeObj/bin/Debug/net7.0/ComposiçãoDeObj.runtimeconfig.json
+/Users/macbookpro/Projects/ComposiçãoDeObj/bin/Debug/net7.0/ComposiçãoDeObj.dll
+/Users/macbookpro/Projects/ComposiçãoDeObj/bin/Debug/net7.0/ComposiçãoDeObj.pdb
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.dll
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/refint/ComposiçãoDeObj.dll
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.pdb
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ComposiçãoDeObj.genruntimeconfig.cache
+/Users/macbookpro/Projects/ComposiçãoDeObj/obj/Debug/net7.0/ref/ComposiçãoDeObj.dll
