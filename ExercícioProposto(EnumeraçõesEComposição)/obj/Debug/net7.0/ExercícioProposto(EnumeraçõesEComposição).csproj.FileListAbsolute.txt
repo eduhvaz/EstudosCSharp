@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).AssemblyInfo.cs
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/bin/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição)
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/bin/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).deps.json
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/bin/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).runtimeconfig.json
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/bin/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).dll
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/bin/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).pdb
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).dll
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/refint/ExercícioProposto(EnumeraçõesEComposição).dll
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).pdb
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ExercícioProposto(EnumeraçõesEComposição).genruntimeconfig.cache
+/Users/macbookpro/Projects/ExercícioProposto(EnumeraçõesEComposição)/obj/Debug/net7.0/ref/ExercícioProposto(EnumeraçõesEComposição).dll
