@@ -30,7 +30,7 @@ namespace ExercicioDoisPolimorfismoHerança
                 else if (ch == 'u')
                 {
                     Console.WriteLine("Manufacture date (DD/MM/YYYY): ");
-                    DateTime manufacture = DateTime.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    DateTime manufacture = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", CultureInfo.InvariantCulture);
                     list.Add(new UsedProduct(name, price, manufacture));
                 }
                 else if (ch == 'c')
@@ -45,7 +45,7 @@ namespace ExercicioDoisPolimorfismoHerança
             Console.WriteLine("PRICE TAGS");
             foreach (Product prod in list)
             {
-                Console.WriteLine(prod.priceTag);
+                Console.WriteLine(prod.priceTag());
             }
 
 
