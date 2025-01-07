@@ -1,4 +1,24 @@
 ﻿<Properties StartupConfiguration="{480F6B11-86EF-44D3-8CCF-F7F54871C011}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exercicioPolimorfismoHerança" expanded="True">
+            <Node name="exercicioPolimorfismoHerança">
+              <Node name="entities">
+                <Node name="OutsourcedEmployee.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.exercicioPolimorfismoHerança FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.exercicioPolimorfismoHerança PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
