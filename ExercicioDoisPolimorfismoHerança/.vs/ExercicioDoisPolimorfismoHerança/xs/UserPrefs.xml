@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{C0D9CAA5-4D77-46AB-85D1-AD7F83ABD568}|Default">
-  <MonoDevelop.Ide.ItemProperties.ExercicioDoisPolimorfismoHerança FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="1" />
+      <File FileName="Entities/Product.cs" Line="21" Column="39" />
+      <File FileName="Entities/ImportedProduct.cs" Line="34" Column="1" />
+      <File FileName="Entities/UsedProduct.cs" Line="1" Column="1" />
+      <File FileName="../ComposiçãoDeObj/Program.cs" Line="33" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExercicioDoisPolimorfismoHerança">
+            <Node name="ExercicioDoisPolimorfismoHerança">
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExercicioDoisPolimorfismoHerança PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
