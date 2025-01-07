@@ -1,31 +1,17 @@
 ﻿<Properties StartupConfiguration="{90784DEB-7888-4343-AD46-E44DDE57B3E0}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.ExercícioProposto_228EnumeraçõesEComposição_229 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/OrderItem.cs">
-    <Files>
-      <File FileName="Program.cs" Line="24" Column="67" IsPinned="True" />
-      <File FileName="Entities/Order.cs" Line="59" Column="2" />
-      <File FileName="Entities/Client.cs" Line="24" Column="20" />
-      <File FileName="Entities/OrderItem.cs" Line="38" Column="1" />
-      <File FileName="Entities/Product.cs" Line="9" Column="24" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ExercícioProposto(EnumeraçõesEComposição)" expanded="True">
-            <Node name="ExercícioProposto(EnumeraçõesEComposição)">
-              <Node name="Entities">
-                <Node name="OrderItem.cs" selected="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Order.cs">
+    <Files>
+      <File FileName="Entities/Order.cs" Line="61" Column="1" />
+      <File FileName="Entities/Client.cs" />
+      <File FileName="Entities/OrderItem.cs" />
+      <File FileName="Entities/Product.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
