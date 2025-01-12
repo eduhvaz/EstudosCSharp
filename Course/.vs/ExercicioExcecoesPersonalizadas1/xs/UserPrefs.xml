@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{76D69776-C814-49B6-A5F5-81DC212267D5}|Default">
+  <MonoDevelop.Ide.ItemProperties.Course PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Entities/Reservation.cs">
+    <Files>
+      <File FileName="Program.cs" Line="53" Column="11" />
+      <File FileName="Entities/Reservation.cs" Line="30" Column="63" />
+      <File FileName="Entities/Exeptions/DomainExeptions.cs" Line="7" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExercicioExcecoesPersonalizadas1" expanded="True">
+            <Node name="Course">
+              <Node name="Entities">
+                <Node name="Reservation.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

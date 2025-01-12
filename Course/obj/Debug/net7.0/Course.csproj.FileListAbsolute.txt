@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.AssemblyInfo.cs
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/Course/bin/Debug/net7.0/Course
+/Users/macbookpro/Projects/Course/bin/Debug/net7.0/Course.deps.json
+/Users/macbookpro/Projects/Course/bin/Debug/net7.0/Course.runtimeconfig.json
+/Users/macbookpro/Projects/Course/bin/Debug/net7.0/Course.dll
+/Users/macbookpro/Projects/Course/bin/Debug/net7.0/Course.pdb
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.dll
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/refint/Course.dll
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.pdb
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/Course.genruntimeconfig.cache
+/Users/macbookpro/Projects/Course/obj/Debug/net7.0/ref/Course.dll

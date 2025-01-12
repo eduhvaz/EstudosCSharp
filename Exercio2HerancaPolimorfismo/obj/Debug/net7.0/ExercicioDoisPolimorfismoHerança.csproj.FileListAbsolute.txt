@@ -1,0 +1,15 @@
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/bin/Debug/net7.0/ExercicioDoisPolimorfismoHerança
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/bin/Debug/net7.0/ExercicioDoisPolimorfismoHerança.deps.json
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/bin/Debug/net7.0/ExercicioDoisPolimorfismoHerança.runtimeconfig.json
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/bin/Debug/net7.0/ExercicioDoisPolimorfismoHerança.dll
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/bin/Debug/net7.0/ExercicioDoisPolimorfismoHerança.pdb
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.AssemblyInfo.cs
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.dll
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/refint/ExercicioDoisPolimorfismoHerança.dll
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.pdb
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ExercicioDoisPolimorfismoHerança.genruntimeconfig.cache
+/Users/macbookpro/Projects/ExercicioDoisPolimorfismoHerança/obj/Debug/net7.0/ref/ExercicioDoisPolimorfismoHerança.dll
